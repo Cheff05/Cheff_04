@@ -1,6 +1,6 @@
 # 章鱼哥的自我介绍
 
-<img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/squidward.jpg" width="200" alt="章鱼哥形象">
+<img src="E1375811-E720-1C54-75AC-8B0654D0B5D7.jpg" width="200" alt="章鱼哥形象">
 
 大家好，我是**章鱼哥**，我的身份是*比基尼海滩的艺术家*。以下是我的自我介绍：
 
@@ -33,9 +33,11 @@
 ---
 
 ## 我的专业是人工智能
-
 ## 我最喜欢的一段代码
+
 ```python
 import numpy as np
+
 a = np.array([[1, 2], [3, 4]])
 print(a)
+![img_1.png](img_1.png)
